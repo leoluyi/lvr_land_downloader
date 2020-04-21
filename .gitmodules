@@ -1,0 +1,3 @@
+[submodule "HouseQuotes"]
+	path = HouseQuotes
+	url = git@github.com:leoluyi/lvr_land.git
